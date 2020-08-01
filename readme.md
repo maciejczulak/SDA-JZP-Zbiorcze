@@ -1,6 +1,2 @@
-1 w pakiecie ex1
-2
-3
-4
-5
-6
+1,2 w pakiecie ex1 3 w pakiecie ex2 4 w pakiecie ex4
+
